@@ -1,0 +1,8 @@
+src/models
+src\models
+src
+node_modules
+amplify
+public
+client/dist/
+client\dist\
